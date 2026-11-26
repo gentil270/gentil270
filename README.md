@@ -6,7 +6,7 @@
 <!-- Animated Typing Introduction -->
 <div align="center">
   <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
+    <img src="https://demolab.com" alt="" />
   </a>
 </div>
 
